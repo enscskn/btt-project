@@ -40,5 +40,5 @@ Program çalıştırıldığında aşağıdaki menü seçenekleri sunulur:
 
 ## Katkıda Bulunanlar
 
-- Enes Coşkun
-- Ahmet Harun Şimşek
+- [Enes Coşkun](https://github.com/enscskn)
+- [Ahmet Harun Şimşek](https://github.com/aharuns)
